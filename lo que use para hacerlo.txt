@@ -1,0 +1,14 @@
+
+
+cree una carpeta en xampp htdocs llamada rest, donde cree un index.php y otros archivos
+
+use xampp para activar apache y el mai sikuel
+
+cree una base de datos en PHPMyadmin con el nombre de UMG
+y las tablas con name de title, status, content, user_id
+
+programas a utilizar
+
+xampp (para activar apache y el mai sikuel) 
+atom (gestor de bloc de notas)
+postman (para visualizar la apirest)
